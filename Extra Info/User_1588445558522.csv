@@ -1,0 +1,4 @@
+User ID,First Name,Last Name,Email,Role,Role Id,Alias,Date of Birth,Added By,Added By Id,Phone,Mobile,Website,Fax,Profile,Profile Id,Online Status,Street,City,State,Country,Zip Code,User Status,Confirmation Status,Language,Country Location,TimeFormat,Time Zone
+zcrm_94654000000132001,,anirudh,anirudh2493@gmail.com,CEO,zcrm_94654000000031151,,,anirudh,zcrm_94654000000132001,,,,,Administrator,zcrm_94654000000031157,,,,Maharashtra,US,,Active,Confirmed,en,US,12 Hrs,Asia/Kolkata
+zcrm_94654000000132156,test,test1,a@abc.com,Manager,zcrm_94654000000031154,,,anirudh,zcrm_94654000000132001,,,,,Standard,zcrm_94654000000031160,,,,,,,Active,Not Confirmed,en,US,12 Hrs,Asia/Kolkata
+zcrm_94654000000132170,asda,sdlkfl,asdkm@kldnf.com,Manager,zcrm_94654000000031154,,,anirudh,zcrm_94654000000132001,,,,,Administrator,zcrm_94654000000031157,,,,,,,Active,Not Confirmed,en,US,12 Hrs,Asia/Kolkata
